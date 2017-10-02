@@ -41,3 +41,6 @@ tools/l2ping
 tools/ppporc
 tools/rfcomm
 tools/sdptool
+tools/lexer.c
+tools/parser.c
+tools/parser.h
